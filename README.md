@@ -23,12 +23,38 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 
 ## Course Structure
 
+### Phase 1: Build Strong Foundations (Weeks 1-4)
+
 | Week | Topic | Status |
 |------|-------|--------|
 | 1 | [Foundations of Agentic AI](week1/README.md) | ✅ Complete |
 | 2 | [Build Your First Agent](week2/README.md) | ✅ Complete |
 | 3 | LangGraph Workflows | 🔜 Coming Soon |
 | 4 | APIs & Real Data | 🔜 Coming Soon |
+
+### Phase 2: Intermediate Skills (Weeks 5-8)
+
+| Week | Topic | Status |
+|------|-------|--------|
+| 5 | Advanced Tool Design | 🔜 Coming Soon |
+| 6 | Memory & State Management | 🔜 Coming Soon |
+| 7 | Multi-Modal Agents | 🔜 Coming Soon |
+| 8 | Testing & Reliability | 🔜 Coming Soon |
+
+### Phase 3: Production & Scale (Weeks 9-12)
+
+| Week | Topic | Status |
+|------|-------|--------|
+| 9 | Production Deployment | 🔜 Coming Soon |
+| 10 | Security & Safety | 🔜 Coming Soon |
+| 11 | Scaling Agent Systems | 🔜 Coming Soon |
+| 12 | Enterprise Integration | 🔜 Coming Soon |
+
+### Phase 4: Mastery (Weeks 13+)
+
+| Week | Topic | Status |
+|------|-------|--------|
+| 13 | [Autonomous Agent Architectures](week13/README.md) | ✅ Complete |
 
 ---
 
@@ -41,6 +67,11 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 - Hands-on Coding with LangChain
 - Deploy Your First Working Agent
 - Debugging & Optimization Basics
+
+## Week 13 - Autonomous Agent Architectures
+- Autonomous Agent Foundations (First Principles Thinking)
+- Self-Improving Agent Systems (Emergence Thinking)
+- Agent Orchestration & Supervision (Analogical Thinking)
 
 ---
 
