@@ -30,7 +30,7 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 | 1 | [Foundations of Agentic AI](week1/README.md) | ✅ Complete |
 | 2 | [Build Your First Agent](week2/README.md) | ✅ Complete |
 | 3 | [LangGraph Workflows](week3/README.md) | ✅ Complete |
-| 4 | APIs & Real Data | 🔜 Coming Soon |
+| 4 | [APIs & Real Data](week4/README.md) | ✅ Complete |
 
 ### Phase 2: Intermediate Skills (Weeks 5-8)
 
@@ -72,6 +72,11 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 - Orchestrating Multi-step Tasks
 - Event-driven Workflows with LangGraph
 - Real-world Pipeline Examples
+
+## Week 4 - APIs & Real Data
+- Connecting Agents to the Real World (API Integration)
+- RAG: Retrieval-Augmented Generation
+- Building Production Data Pipelines
 
 ## Week 13 - Autonomous Agent Architectures
 - Autonomous Agent Foundations (First Principles Thinking)
