@@ -38,7 +38,7 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 |------|-------|--------|
 | 5 | [Multi-Agent Systems](week5/README.md) | ✅ Complete |
 | 6 | [Guardrails & Safety](week6/README.md) | ✅ Complete |
-| 7 | Deployment & Scaling | 🔜 Coming Soon |
+| 7 | [Deployment & Scaling](week7/README.md) | ✅ Complete |
 | 8 | Capstone Project | 🔜 Coming Soon |
 
 ### Phase 3: Advanced Topics (Weeks 9+)
@@ -78,6 +78,12 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 - Responsible AI Practices (First Principles Thinking)
 - Guardrails Implementation (Emergence Thinking)
 - Monitoring & Observability (Analogical Thinking)
+
+## Week 7 - Deployment & Scaling
+- Containerizing Agents with Docker & FastAPI (First Principles Thinking)
+- Cloud Deployment to AWS/GCP/Azure (Analogical Thinking)
+- Cost Optimization & Scaling Strategies (Emergence Thinking)
+- Bonus: MCP & A2A Protocols for Enterprise Systems
 
 ## Week 13 - Autonomous Agent Architectures
 - Autonomous Agent Foundations (First Principles Thinking)
