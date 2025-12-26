@@ -29,7 +29,7 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 |------|-------|--------|
 | 1 | [Foundations of Agentic AI](week1/README.md) | ✅ Complete |
 | 2 | [Build Your First Agent](week2/README.md) | ✅ Complete |
-| 3 | LangGraph Workflows | 🔜 Coming Soon |
+| 3 | [LangGraph Workflows](week3/README.md) | ✅ Complete |
 | 4 | APIs & Real Data | 🔜 Coming Soon |
 
 ### Phase 2: Intermediate Skills (Weeks 5-8)
@@ -67,6 +67,11 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 - Hands-on Coding with LangChain
 - Deploy Your First Working Agent
 - Debugging & Optimization Basics
+
+## Week 3 - LangGraph Workflows
+- Orchestrating Multi-step Tasks
+- Event-driven Workflows with LangGraph
+- Real-world Pipeline Examples
 
 ## Week 13 - Autonomous Agent Architectures
 - Autonomous Agent Foundations (First Principles Thinking)
