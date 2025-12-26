@@ -1,0 +1,24 @@
+# Core Dependencies
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+openai>=1.10.0
+
+# Tools and Integrations
+duckduckgo-search>=4.1.0
+wikipedia>=1.4.0
+requests>=2.31.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# Development and Debugging
+rich>=13.7.0
+python-json-logger>=2.0.7
+
+# Optional: For deployment examples
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# Optional: For LangSmith tracing
+langsmith>=0.0.83
