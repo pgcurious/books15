@@ -32,25 +32,16 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 | 3 | [LangGraph Workflows](week3/README.md) | ✅ Complete |
 | 4 | [APIs & Real Data](week4/README.md) | ✅ Complete |
 
-### Phase 2: Intermediate Skills (Weeks 5-8)
+### Phase 2: Mastery & Leadership (Weeks 5-8)
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 5 | Advanced Tool Design | 🔜 Coming Soon |
-| 6 | Memory & State Management | 🔜 Coming Soon |
-| 7 | Multi-Modal Agents | 🔜 Coming Soon |
-| 8 | Testing & Reliability | 🔜 Coming Soon |
+| 5 | [Multi-Agent Systems](week5/README.md) | ✅ Complete |
+| 6 | [Guardrails & Safety](week6/README.md) | ✅ Complete |
+| 7 | Deployment & Scaling | 🔜 Coming Soon |
+| 8 | Capstone Project | 🔜 Coming Soon |
 
-### Phase 3: Production & Scale (Weeks 9-12)
-
-| Week | Topic | Status |
-|------|-------|--------|
-| 9 | Production Deployment | 🔜 Coming Soon |
-| 10 | Security & Safety | 🔜 Coming Soon |
-| 11 | Scaling Agent Systems | 🔜 Coming Soon |
-| 12 | Enterprise Integration | 🔜 Coming Soon |
-
-### Phase 4: Mastery (Weeks 13+)
+### Phase 3: Advanced Topics (Weeks 9+)
 
 | Week | Topic | Status |
 |------|-------|--------|
@@ -77,6 +68,16 @@ Simple components combine to create surprisingly sophisticated behaviors. Just a
 - Connecting Agents to the Real World (API Integration)
 - RAG: Retrieval-Augmented Generation
 - Building Production Data Pipelines
+
+## Week 5 - Multi-Agent Systems
+- Designing Collaborative Agents (First Principles Thinking)
+- Agent Memory Systems (Emergence Thinking)
+- Building Agent Teams (Analogical Thinking)
+
+## Week 6 - Guardrails & Safety
+- Responsible AI Practices (First Principles Thinking)
+- Guardrails Implementation (Emergence Thinking)
+- Monitoring & Observability (Analogical Thinking)
 
 ## Week 13 - Autonomous Agent Architectures
 - Autonomous Agent Foundations (First Principles Thinking)
